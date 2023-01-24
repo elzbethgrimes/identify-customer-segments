@@ -1,4 +1,4 @@
-### identify-customer-segments
+### Identify Customer Segments Project
 Unsupervised Learning project
 
 This project used unsupervised learning to identify customer segments. This was accomplished in the Jupyter Notebook <mark>Identify_Customer_Segments.ipynb</mark> through the following steps:
