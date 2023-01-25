@@ -7,8 +7,8 @@ In this project, unsupervised learning techniques are applied to identify segmen
 3. Clustering
 
 Below is a description of the data used in this project. However, no data is included in this repository due to the agreed-upon terms and conditions between AZ Direct GmbH and Udacity concerning data use.
-* <mark>Udacity_AZDIAS_Subset.csv</mark>: Demographic data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
-* <mark>Udacity_CUSTOMERS_Subset.csv</mark>: Demographic data for customers of a mail-order company; 191652 persons (rows) x 85 features (columns).
-* <mark>Data_Dictionary.md</mark>: Information file about the features in the provided datasets.
-* <mark>AZDIAS_Feature_Summary.csv</mark>: Summary of feature attributes for demographic data.
+* `Udacity_AZDIAS_Subset.csv`: Demographic data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
+* `Udacity_CUSTOMERS_Subset.csv`: Demographic data for customers of a mail-order company; 191652 persons (rows) x 85 features (columns).
+* `Data_Dictionary.md`: Information file about the features in the provided datasets.
+* `AZDIAS_Feature_Summary.csv`: Summary of feature attributes for demographic data.
 
